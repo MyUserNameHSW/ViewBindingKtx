@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewBindingKtx</string>
+    <string name="string_hello">Hello Android</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
