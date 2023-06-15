@@ -3,7 +3,7 @@
 
 ### 使用方式
 
-`implementation 'io.github.myusernamehsw:ViewBindingKtx:1.0.0'`
+```implementation 'io.github.myusernamehsw:ViewBindingKtx:1.0.0'```
 
 #### Activity
 
