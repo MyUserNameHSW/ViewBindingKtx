@@ -2,6 +2,9 @@
 使用委托对ViewBinding进行封装
 
 ### 使用方式
+
+`implementation 'io.github.myusernamehsw:ViewBindingKtx:1.0.0'`
+
 #### Activity
 
 ```kotlin
